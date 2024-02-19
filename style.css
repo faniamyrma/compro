@@ -1,0 +1,24 @@
+h1, h3{
+    color: aquamarine;
+};
+
+h2{
+    color: rgb(250, 255, 253);
+};
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(133, 86, 30);
+    
+};
+
+button{
+    background-color: black;
+    color: white;
+    padding-inline: 10px;
+}
+
+button :hover{
+    background-color: white;
+    color: black;
+}
